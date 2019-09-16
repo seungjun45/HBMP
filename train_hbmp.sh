@@ -3,7 +3,7 @@
 python train.py \
   --epochs 20 \
   --batch_size 64 \
-  --corpus scitail \
+  --corpus all_nli \
   --encoder_type HBMP \
   --activation leakyrelu \
   --optimizer adam \

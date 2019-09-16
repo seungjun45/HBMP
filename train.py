@@ -13,6 +13,7 @@ from torchtext import data
 from torchtext import datasets
 from classifier import NLIModel
 from corpora import MultiNLI, SciTail, StanfordNLI, AllNLI, BreakingNLI
+import pickle
 import pdb
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -234,6 +235,9 @@ def main():
     params = sum([p.numel() for p in model.parameters()])
     print('Parameters: {}'.format(params))
     print('\nTraining started...\n')
+
+    with open('{}_vocab.pkl'.format(config.corpus),'wb') as f:
+        pickle.dump(inputs.vocab,f)
 
     # Train for the number of epochs specified
     for epoch in range(config.epochs):

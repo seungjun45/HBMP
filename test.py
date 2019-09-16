@@ -10,10 +10,12 @@ from torchtext import data
 from torchtext import datasets
 from corpora import MultiNLI, SciTail, StanfordNLI, AllNLI, BreakingNLI
 
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
 parser = ArgumentParser(description='Helsinki NLI System')
 parser.add_argument('--model_path',
                     type=str,
-                    default='results/model.pt')
+                    default='results/final_HBMP_600D.pt')
 parser.add_argument("--corpus",
                     type=str,
                     choices=['snli', 'breaking_nli', 'all_nli', 'multinli_matched', 'multinli_mismatched', 'scitail'],
@@ -70,7 +72,7 @@ def main():
 
     train_iter, dev_iter, test_iter = data.BucketIterator.splits((train, dev, test),
         batch_size=config.batch_size,
-        device=config.gpu)
+        device=device)
 
     # Loss
     criterion = nn.CrossEntropyLoss()
