@@ -14,7 +14,7 @@ from torchtext import datasets
 from classifier import NLIModel
 from corpora import MultiNLI, SciTail, StanfordNLI, AllNLI, BreakingNLI
 import pickle
-import pdb
+
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 parser = ArgumentParser(description='Helsinki NLI')

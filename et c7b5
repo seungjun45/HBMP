@@ -1,0 +1,233 @@
+[33mcommit c7bd582ac6875e6f58d16508a9c00526928cd981[m[33m ([m[1;36mHEAD -> [m[1;32msj_research[m[33m, [m[1;31mHBMP_SJ/pytorch1.0[m[33m, [m[1;32mpytorch1.0[m[33m)[m
+Author: Seungjun <seungjun45@kaist.ac.kr>
+Date:   Mon Sep 16 16:21:49 2019 +0900
+
+    HBMP_v2
+
+[33mcommit 443e202439804de6b5b1bfa3b504d0e7f3c15af6[m
+Author: Seungjun <seungjun45@kaist.ac.kr>
+Date:   Sat Sep 14 19:36:29 2019 +0900
+
+    pytorch 1.1
+
+[33mcommit f14dd32fb668cb02bf6c111fd3aa9ee3e5f4564f[m
+Author: Seungjun <seungjun45@kaist.ac.kr>
+Date:   Sat Sep 14 19:19:43 2019 +0900
+
+    pytorch 1.1
+
+[33mcommit b8fc63b763dfd20788d96be2b7c88d75681779f7[m
+Author: Seungjun <seungjun45@kaist.ac.kr>
+Date:   Sat Sep 14 19:13:17 2019 +0900
+
+    pytorch>0.4
+
+[33mcommit ddf47d8930195f9136ddd846acde54e72e4e0edf[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: aarnetalman <aarne.talman@helsinki.fi>
+Date:   Sat Aug 10 01:03:15 2019 +0300
+
+    Updated article link
+
+[33mcommit 3f5a0f0499e37d5166d0c5d268c7735d3d7c1c9f[m
+Author: aarnetalman <aarne.talman@helsinki.fi>
+Date:   Sat Aug 10 01:02:22 2019 +0300
+
+    Updated article link
+
+[33mcommit 9ae279a3133712a531260e17b34f0d9d84ceeef7[m
+Author: aarnetalman <aarne.talman@helsinki.fi>
+Date:   Mon Aug 5 01:39:54 2019 +0300
+
+    updated reference
+
+[33mcommit 66e59b30f0d8bc79eefbeff9e3870b3df81fff9a[m
+Author: Aarne Talman <aarne.talman@helsinki.fi>
+Date:   Wed Jun 12 09:56:41 2019 +0300
+
+    reference
+
+[33mcommit 0fcec8c08b241c3bd85afa1830dd6e661a059c43[m
+Author: Aarne Talman <aarne.talman@helsinki.fi>
+Date:   Wed Jun 12 09:55:21 2019 +0300
+
+    Updated reference
+
+[33mcommit ec6d6ec5a1e54534cb41211032df601d35c859b4[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Tue Aug 28 22:32:28 2018 +0300
+
+    fix
+
+[33mcommit 5e176d875444aed6d76b384c001fdb8975a84414[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Tue Aug 28 14:45:43 2018 +0300
+
+    updated urls
+
+[33mcommit dce8308b20b6fd0d773b6f32ab8b7645c51c4cd1[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Tue Aug 28 11:18:24 2018 +0300
+
+    small edit to scripts
+
+[33mcommit 6ad0ecf1797da3da6d4d78b5b24cc90c61214143[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Tue Aug 28 08:02:36 2018 +0300
+
+    added arxiv link
+
+[33mcommit 0c62ce9ab27731f96e2a29b2e6e5095629c0aa6e[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 16:02:12 2018 +0300
+
+    cleaned up training scripts
+
+[33mcommit b1189534e45e783b96734e808756532489124f3f[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 15:55:07 2018 +0300
+
+    cleaned up training scripts
+
+[33mcommit 408a404f9a88c676337aaa40ef1908dc97829bde[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:35:48 2018 +0300
+
+    typo
+
+[33mcommit 096f56d2df416520374f32fc5697f03f35758d6b[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:28:59 2018 +0300
+
+    Formatting
+
+[33mcommit 0acc27c2954e6b552f0efab5a4120d4988bc209c[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:21:59 2018 +0300
+
+    Added results
+
+[33mcommit c54d11ece5d70a99e4384e192cd60fe943c07725[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:20:55 2018 +0300
+
+    Added results
+
+[33mcommit 3222b101a53040e949846cb1f36bcd7f916afc23[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:19:48 2018 +0300
+
+    Added results
+
+[33mcommit 72f702e4c39f7f37714bd90d053560146007eb88[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:18:07 2018 +0300
+
+    Added results
+
+[33mcommit c65f17da9106d559201bf39ad04ac1feee2409ef[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:12:49 2018 +0300
+
+    Added results
+
+[33mcommit 14307b0834562fef5902307ba683675ff5f968ef[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:11:54 2018 +0300
+
+    Added results
+
+[33mcommit 5b8b3a4ca310fe6dfdc9850f3852f5978dbf4b25[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:11:03 2018 +0300
+
+    Added results
+
+[33mcommit abf2909fc8add6b8ccb90916f3902a923f665db3[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 14:00:22 2018 +0300
+
+    Fixed train script
+
+[33mcommit 925749c14feed7dbea1c8675c4a8bf79b4b2a4bd[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 13:57:45 2018 +0300
+
+    Added instructions to doenload SpaCy model
+
+[33mcommit 99ff3474c1a51c25981b7b54b708db684710353b[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 13:53:26 2018 +0300
+
+    Fixed a typo
+
+[33mcommit 0e81db8d664d5b7749f56680ae386478adcf61ba[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 13:37:14 2018 +0300
+
+    Added reference to the paper
+
+[33mcommit bba2310f00e4d742a573f44c1c3ede1708b734e5[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 13:35:36 2018 +0300
+
+    Added reference to the paper
+
+[33mcommit fdb0eec7e4baf00f790cbabc1d971ad0d34be070[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 27 12:21:13 2018 +0300
+
+    Cleaning up the code
+
+[33mcommit 699d51561792cb6462d8df029d8f4e54bfc89770[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Wed Aug 22 12:47:49 2018 +0300
+
+    cleaned up
+
+[33mcommit bac11ca1aadfe0b4600422183e8be399a4ed5675[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 16:36:24 2018 +0300
+
+    fix for test
+
+[33mcommit f2191af364574e881df3bfd800b1b6f759eb9b76[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 13:46:13 2018 +0300
+
+    Initial commit
+
+[33mcommit bb988668511fc0c7cdc76817259143924d819241[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 13:33:32 2018 +0300
+
+    Initial commit
+
+[33mcommit 38ac8207438d53d9adfe2902fd821f50d58d1d3b[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 13:27:26 2018 +0300
+
+    Initial commit
+
+[33mcommit 1119bd219745de4e509dff7c2cbb3fda9ab9153f[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 13:26:03 2018 +0300
+
+    Initial commit
+
+[33mcommit a9074fce1e9310b3e7347d423d66ec255903975a[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 12:01:54 2018 +0300
+
+    Initial commit
+
+[33mcommit a220f5494bc3dc1751b1a8dd2821ba8c6403d0ad[m
+Author: Talman Aarne J <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 12:00:09 2018 +0300
+
+    Initial commit
+
+[33mcommit 8393bc7bb3f8edfaf48fa44a7beee633467f69cb[m
+Author: Aarne Talman <aarne.talman@helsinki.fi>
+Date:   Mon Aug 13 11:56:37 2018 +0300
+
+    Initial commit
